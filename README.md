@@ -11,7 +11,7 @@ To compile all the source files, use the following command:
 
 # How to Run
 
-./HotelManagement
+```./HotelManagement```
 
 # File Structure
 
