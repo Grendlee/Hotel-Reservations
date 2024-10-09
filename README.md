@@ -16,26 +16,26 @@ To compile all the source files, use the following command:
 # File Structure
 
 
-## Hotel.cpp
+### Hotel.cpp
 
 - Implementation of hotel reservation system
 
-## Room.cpp and Room.h
+### Room.cpp and Room.h
 
 - Models a Room class
 
-## Customers.cpp and Customers.h
+### Customers.cpp and Customers.h
 
 - Models a Customer that requests duration of stay and number of beds
 
-## Customers.txt
+### Customers.txt
 
 - Input file containing list of customer reservations
 
-## CustomersRejected.txt
+### CustomersRejected.txt
 
 - Output file that logs customer orders that could not be fulfilled due to room shortages
 
-## Generated Daily Logs
+### Generated Daily Logs
 
 - Each days activity
