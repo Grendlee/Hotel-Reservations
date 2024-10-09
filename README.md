@@ -6,6 +6,7 @@ Hotel reservations is a program that simulates a hotel room management system. T
 # How to Compile
 
 To compile all the source files, use the following command:
+
 ```clang++ -std=c++11 -stdlib=libc++ Hotel.cpp Room.cpp Customer.cpp -o HotelManagement```
 
 # How to Run
